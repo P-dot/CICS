@@ -1,0 +1,19 @@
+L01MAPS  DFHMSD TYPE=&SYSPARM,MODE=INOUT,LANG=COBOL,                   X
+               STORAGE=AUTO,CTRL=FREEKB,TIOAPFX=YES
+L01MAP   DFHMDI SIZE=(24,80),LINE=1,COLUMN=1
+         DFHMDF POS=(3,22),LENGTH=36,ATTRB=(ASKIP,NORM),               X
+               INITIAL='************************************'
+         DFHMDF POS=(5,25),LENGTH=30,ATTRB=(ASKIP,BRT),                X
+               INITIAL='CICS LAB 01'
+         DFHMDF POS=(7,18),LENGTH=44,ATTRB=(ASKIP,NORM),               X
+               INITIAL='TRANSACTION PROCESSING FUNDAMENTALS'
+         DFHMDF POS=(10,18),LENGTH=10,ATTRB=(ASKIP,NORM),              X
+               INITIAL='USER NAME:'
+USERNM   DFHMDF POS=(10,30),LENGTH=12,ATTRB=(UNPROT,IC),               X
+               INITIAL=' '
+         DFHMDF POS=(14,22),LENGTH=36,ATTRB=(ASKIP,NORM),              X
+               INITIAL='ENTER=CONTINUE'
+         DFHMDF POS=(18,22),LENGTH=36,ATTRB=(ASKIP,NORM),              X
+               INITIAL='************************************'
+         DFHMSD TYPE=FINAL
+         END
