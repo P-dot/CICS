@@ -1,0 +1,25 @@
+CICS LAB 02 - RUNTIME OBSERVATION
+
+1. Region:
+CEMT I SYSTEM
+
+2. Initial transaction runtime check:
+CEMT I TRANS(CH01)
+
+3. Stored definition:
+CEDA VIEW TRANSACTION(CH01) GROUP(LAB01)
+
+4. Install existing Lab 01 resource group:
+CEDA INSTALL GROUP(LAB01)
+
+5. Verify installed transaction:
+CEMT I TRANS(CH01)
+
+6. Verify installed program:
+CEMT I PROG(CICSL01)
+
+7. Observe active tasks:
+CEMT I TASK
+
+8. Leave CEMT and execute:
+CH01
