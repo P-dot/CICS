@@ -1,0 +1,24 @@
+cd ~/Downloads
+
+unzip -o lab-04-part-1-bms-maps-cursor-control.zip
+
+cd /c/Carrera_Ciberseguridad/06_Portfolio_GitHub/CICS
+
+rm -rf labs/04-bms-maps-cursor-control-part-1
+
+cp -r ~/Downloads/lab-04-part-1-bms-maps-cursor-control \
+  labs/04-bms-maps-cursor-control-part-1
+
+find labs/04-bms-maps-cursor-control-part-1 -type f | sort
+
+# Publication safety checks
+grep -RniE '([0-9]{1,3}\.){3}[0-9]{1,3}' \
+  labs/04-bms-maps-cursor-control-part-1 || true
+
+grep -RniE '([[:xdigit:]]{2}[:-]){5}[[:xdigit:]]{2}' \
+  labs/04-bms-maps-cursor-control-part-1 || true
+
+git status
+git add labs/04-bms-maps-cursor-control-part-1
+git commit -m "Add CICS Lab 04 Part 1 BMS maps and cursor control"
+git push origin main
