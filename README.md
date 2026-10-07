@@ -366,3 +366,14 @@ The same review applies to screenshots and copied console output.
 [RACF Security](https://github.com/P-dot/mainframe-racf-security-evidence)
 
 > Part of the **IBM z/OS Mainframe Engineering Portfolio** — an independent hands-on environment focused on systems, operations, development, security, automation, diagnostics, recovery, and integration.
+
+
+---
+
+## z/OS Engineering Academy
+
+**Academy role:** Transaction School — online execution linking programs, data, security and recovery.
+
+[Start the Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Course Catalog](https://github.com/P-dot/P-dot/blob/main/docs/COURSES.md) · [Curriculum Graph](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md) · [Cross-Domain Relationships](https://github.com/P-dot/P-dot/blob/main/docs/RELATIONSHIPS.md)
+
+> Learn the concept → execute the lab → interpret the evidence → understand the subsystem boundary → continue to the next connected course.
