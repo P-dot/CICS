@@ -177,3 +177,12 @@ CICS REGION
 ## Evidence
 
 `evidence/screenshots/` contains the original screenshots extracted from the supplied execution document, including the initial `NOT FOUND`, CEDA definition/install evidence, successful CEMT inquiries, task observation and final `CH01` screen.
+
+
+---
+### Continue learning
+
+**Previous:** [01-cics-transaction-processing-fundamentals](../01-cics-transaction-processing-fundamentals/)  
+**Course:** [Course home](../../README.md)  
+**Next:** [03-cics-3270-aid-ceci-cedf](../03-cics-3270-aid-ceci-cedf/)  
+**Academy:** [z/OS Engineering Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Curriculum](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md)

@@ -99,3 +99,12 @@ This introductory lab intentionally stops after successful map display. `RECEIVE
 - `docs/` — theory, build flow and troubleshooting
 - `commands/` — CICS commands
 - `evidence/screenshots/` — execution evidence
+
+
+---
+### Continue learning
+
+**Previous:** Course introduction  
+**Course:** [Course home](../../README.md)  
+**Next:** [02-cics-runtime-resources-and-multitasking](../02-cics-runtime-resources-and-multitasking/)  
+**Academy:** [z/OS Engineering Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Curriculum](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md)

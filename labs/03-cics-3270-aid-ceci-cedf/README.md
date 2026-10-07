@@ -32,3 +32,12 @@ Lab 01 owns the COBOL, BMS and build artifacts. Lab 02 already demonstrates CEDA
 The lesson block introduces reentrancy/quasi-reentrancy conceptually. Advanced TCB, dispatching and threadsafe internals are deliberately outside this lab.
 
 See `docs/` for the theory/walkthrough and `evidence/` for the supplied screenshots.
+
+
+---
+### Continue learning
+
+**Previous:** [02-cics-runtime-resources-and-multitasking](../02-cics-runtime-resources-and-multitasking/)  
+**Course:** [Course home](../../README.md)  
+**Next:** [04-bms-maps-cursor-control-part-1](../04-bms-maps-cursor-control-part-1/)  
+**Academy:** [z/OS Engineering Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Curriculum](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md)

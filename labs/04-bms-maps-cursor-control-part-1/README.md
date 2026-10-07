@@ -135,3 +135,12 @@ Part 1 does **not** implement `RECEIVE MAP`, COMMAREA, VSAM or DB2.
 ## Part 2
 
 The next tutorial introduces **Program to Send & Receive a Map**. Part 2 will continue from this exact working baseline and introduce `RECEIVE MAP` and processing of data entered on the 3270 screen without duplicating Part 1.
+
+
+---
+### Continue learning
+
+**Previous:** [03-cics-3270-aid-ceci-cedf](../03-cics-3270-aid-ceci-cedf/)  
+**Course:** [Course home](../../README.md)  
+**Next:** [Choose the next Academy course](https://github.com/P-dot/P-dot/blob/main/docs/COURSES.md)  
+**Academy:** [z/OS Engineering Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Curriculum](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md)
